@@ -1,0 +1,33 @@
+# Environment — NEVER commit real keys
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+uvicorn.log
+uvicorn_err.log
+
+# Data files (PDFs can be large — add back if you want them tracked)
+Data/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Claude internal config
+.claude/
