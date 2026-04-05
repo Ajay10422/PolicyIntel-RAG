@@ -67,6 +67,9 @@ app.py  (Streamlit)
   └─ Structured Breakdown expander
 ```
 
+<img width="5187" height="8191" alt="AWS Application Delivery-2026-04-05-161255" src="https://github.com/user-attachments/assets/dfbce327-63a6-4556-8aa4-959880c73987" />
+
+
 ---
 
 ## Features
