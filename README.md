@@ -66,10 +66,7 @@ app.py  (Streamlit)
   ├─ Citation cards   (source · page · reranker score · key phrases)
   └─ Structured Breakdown expander
 ```
-
-<img width="5187" height="8191" alt="AWS Application Delivery-2026-04-05-161255" src="https://github.com/user-attachments/assets/dfbce327-63a6-4556-8aa4-959880c73987" />
-
-
+<img width="6737" height="8192" alt="AWS Application Delivery-2026-04-05-161801" src="https://github.com/user-attachments/assets/bd97c215-a0a0-477b-a28d-2c52f4b88318" />
 ---
 
 ## Features
