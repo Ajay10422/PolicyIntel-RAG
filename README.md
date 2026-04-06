@@ -2,6 +2,8 @@
 
 An end-to-end Retrieval-Augmented Generation (RAG) system for insurance and HR policy analysis, built to demonstrate Azure AI-102 competencies across six Azure AI services.
 
+Live Demo Link - https://www.loom.com/share/9110ef07fcbb47e2991d8fd50724ef79
+
 ---
 
 ## What It Does
